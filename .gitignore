@@ -1,5 +1,10 @@
 # ing baru
 /assets
+/css
+/fonts
+/images
+/js
+/scss
 
 /vendor/
 node_modules/

@@ -61,3 +61,27 @@
         Aktivitas:
 
         1. modified:   README.md
+
+
+#### 3.1 Desain dan Kode Proyek - part 1: Menginstal semua file proyek ke root direktori
+
+        Aktivitas:
+
+        1. Menginstal semua file proyek ke root direktori
+
+        modified:   .gitignore
+        modified:   README.md
+        new file:   about.html
+        new file:   contact.html
+        new file:   index.html
+        new file:   login.html
+        new file:   register.html
+        new file:   room-single.html
+        new file:   rooms.html
+        new file:   services.html
+
+        NOTE:
+
+        Files css, fonts, images, js dan scss tidak disimpan di dalam repositori untuk melindungi hak cipta.
+
+        2. modified:   README.md
