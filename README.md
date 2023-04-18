@@ -119,3 +119,15 @@
 
         Test : Coba uji di browser
         Hasil: good :)
+
+
+#### 3.2 Membuat File Konfigurasi - Part 1: Membuat variabel koneksi
+
+        Aktivitas:
+
+        1. Membuat folder dan file config.php
+        new file:   config/config.php
+
+        NEXT: 
+
+        Membuat database
