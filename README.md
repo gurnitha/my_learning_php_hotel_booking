@@ -31,3 +31,10 @@
 
         1. Pass 
         2. modified:   README.md
+
+
+## Bagian 2.Instalasi
+
+        Aktivitas:
+
+        1. modified:   README.md
