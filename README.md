@@ -46,3 +46,11 @@
 
         1. Pass 
         2. modified:   README.md
+
+
+#### 2.2 Memasang Text Editor
+
+        Aktivitas:
+
+        1. Pass 
+        2. modified:   README.md
