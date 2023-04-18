@@ -131,3 +131,14 @@
         NEXT: 
 
         Membuat database
+
+
+#### 3.3 Membuat database 
+
+        Aktivitas:
+
+        1. Membuat database
+
+        NEXT:
+
+        Membuat koneksi ke database dengan PDO
