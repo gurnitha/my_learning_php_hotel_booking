@@ -85,3 +85,17 @@
         Files css, fonts, images, js dan scss tidak disimpan di dalam repositori untuk melindungi hak cipta.
 
         2. modified:   README.md
+
+
+#### 3.1 Desain dan Kode Proyek - part 2: Memindahkan css, fonts, images, js, dan scss ke dalam assets
+
+        Aktivitas:
+
+        1. Membuat folder baru dengan nama 'assets'
+        2. Memindahkan css, fonts, images, js, dan scss ke dalam assets
+
+        NOTE:
+
+        Files css, fonts, images, js dan scss tidak disimpan di dalam repositori untuk melindungi hak cipta.
+        
+        3. modified:   README.md
