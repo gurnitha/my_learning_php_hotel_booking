@@ -38,3 +38,11 @@
         Aktivitas:
 
         1. modified:   README.md
+
+
+#### 2.1 Menginstal Xampp
+
+        Aktivitas:
+
+        1. Pass 
+        2. modified:   README.md
