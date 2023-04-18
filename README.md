@@ -99,3 +99,23 @@
         Files css, fonts, images, js dan scss tidak disimpan di dalam repositori untuk melindungi hak cipta.
         
         3. modified:   README.md
+
+
+#### 3.1 Desain dan Kode Proyek - part 3: Memperbaiki link css, images dan js pada semua file template
+
+        Aktivitas:
+
+        1. Memperbaiki link css, images dan js pada semua file template
+
+        modified:   README.md
+        modified:   about.html
+        modified:   contact.html
+        modified:   index.html
+        modified:   login.html
+        modified:   register.html
+        modified:   room-single.html
+        modified:   rooms.html
+        modified:   services.html
+
+        Test : Coba uji di browser
+        Hasil: good :)
