@@ -133,7 +133,7 @@
         Membuat database
 
 
-#### 3.3 Membuat database 
+#### 3.2 Membuat File Konfigurasi - Part 2: Membuat database 
 
         Aktivitas:
 
@@ -145,7 +145,7 @@
 
 
 
-#### 3.4 Membuat koneksi ke database dengan PDO
+#### 3.2 Membuat File Konfigurasi - Part 3:Membuat koneksi ke database dengan PDO
 
         Aktivitas:
 
@@ -157,3 +157,18 @@
         NEXT:
 
         Memperbaiki koneksi agar lebih aman.
+
+
+
+#### 3.2 Membuat File Konfigurasi - Part 4: Memperbaiki koneksi agar lebih aman dan pesan error lebih friendly
+
+        Aktivitas:
+
+        1. Memperbaiki koneksi agar lebih aman dan pesan error lebih friendly
+        modified:   config/config.php
+
+        Testing: berhasil
+
+        NEXT:
+
+        4. Mempersiapkan Struktur Proyek
