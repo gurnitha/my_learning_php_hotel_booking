@@ -54,3 +54,10 @@
 
         1. Pass 
         2. modified:   README.md
+
+
+## Bagian 3: Memulai Proyek
+
+        Aktivitas:
+
+        1. modified:   README.md
