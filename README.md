@@ -142,3 +142,18 @@
         NEXT:
 
         Membuat koneksi ke database dengan PDO
+
+
+
+#### 3.4 Membuat koneksi ke database dengan PDO
+
+        Aktivitas:
+
+        1. Membuat koneksi ke database dengan PDO
+        modified:   config/config.php 
+
+        Testing: berhasil       
+
+        NEXT:
+
+        Memperbaiki koneksi agar lebih aman.

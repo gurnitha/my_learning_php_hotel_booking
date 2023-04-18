@@ -11,3 +11,14 @@ define("USER", "root");
 
 // Password
 define("PASSWORD", "root");
+
+
+// Koneksi ke database
+$conn = new PDO("mysql:host=".HOST.";dbname=".DBNAME."", USER, PASSWORD);
+
+if($conn == true){
+	echo "Koneksi dengan database berhasil ...";
+} else {
+	echo "error";
+}
+
