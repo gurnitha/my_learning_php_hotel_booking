@@ -16,3 +16,11 @@
 
         1. modified:   README.md
         2.  modified:   .gitignore
+
+
+## Bagian 1: Pendahuluan
+
+        Aktivitas:
+
+        1. modified:   README.md
+
