@@ -24,3 +24,10 @@
 
         1. modified:   README.md
 
+
+#### 1.1 Perkenalan
+
+        Aktivitas:
+
+        1. Pass 
+        2. modified:   README.md
