@@ -8,3 +8,11 @@
         Aktivitas:
 
         1. modified:   README.md
+
+
+#### 0.1 Memodifikasi README.md dan .gitignore file
+
+        Aktivitas:
+
+        1. modified:   README.md
+        2.  modified:   .gitignore
