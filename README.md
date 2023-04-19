@@ -211,6 +211,30 @@
 
         Aktivitas:
 
-        1. 
+        1. Memindahkan bagian header dan footer dari halama about ke file header.php dan footer.php
+
+        2. Menyertakan / require / include header.php dan footer.php pada halaman about.ph
+
         modified:   about.php
+        modified:   includes/footer.php
         modified:   includes/header.php
+
+        NEXT:
+
+        Menguji hasil kedua langkah di atas
+
+
+#### 3.3. Mempersiapkan Struktur Proyek - Part 4: Menguji hasil kedua langkah di atas
+
+        Aktivitas:
+
+        1. Testing
+
+        Membuka halaman about.php pada browser
+        http://localhost/my_learning_php_hotel_booking/about.php
+
+        2. Hasil: halaman about terlihat sama seperti sebelum diubah :) 
+
+        NEXT:
+
+        Lakukan yang sama pada file contact, index, login, register, room-single, room, dan services
