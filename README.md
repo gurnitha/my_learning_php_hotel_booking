@@ -238,3 +238,22 @@
         NEXT:
 
         Lakukan yang sama pada file contact, index, login, register, room-single, room, dan services
+
+
+#### 3.3. Mempersiapkan Struktur Proyek - Part 5: Lakukan yang sama pada file contact, index, login, register, room-single, room, dan services
+
+        Aktivitas:
+
+        1. Memodifikasi files di bawah ini dengan cara yang sama seperti pada langkah 3.3 - part 4 di atas
+
+        modified:   contact.php
+        modified:   index.php
+        modified:   login.php
+        modified:   register.php
+        modified:   room-single.php
+        modified:   rooms.php
+        modified:   services.php
+
+        NEXT:
+
+        4: Membuat Sistem Autentikasi
