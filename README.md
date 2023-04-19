@@ -171,4 +171,23 @@
 
         NEXT:
 
-        4. Mempersiapkan Struktur Proyek
+
+#### 3.3. Mempersiapkan Struktur Proyek - Part 1: Mengganti ekstensi file
+
+        Aktivitas:
+
+        1. Mengannti ekstensi file dari .html menjadi .php
+
+        modified:   README.md
+        renamed:    about.html -> about.php
+        renamed:    contact.html -> contact.php
+        renamed:    index.html -> index.php
+        renamed:    login.html -> login.php
+        renamed:    register.html -> register.php
+        renamed:    room-single.html -> room-single.php
+        renamed:    rooms.html -> rooms.php
+        renamed:    services.html -> services.php
+
+        NEXT:
+
+        Menggunakan include
