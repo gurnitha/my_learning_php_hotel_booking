@@ -169,7 +169,7 @@
 
         Testing: berhasil
 
-        NEXT:
+        NEXT: Mengganti ekstensi file
 
 
 #### 3.3. Mempersiapkan Struktur Proyek - Part 1: Mengganti ekstensi file
@@ -190,4 +190,18 @@
 
         NEXT:
 
-        Menggunakan include
+        Membuat folder includes dan file footer dan header
+
+
+#### 3.3. Mempersiapkan Struktur Proyek - Part 2: Membuat folder baru dan files
+
+        Aktivitas:
+
+        1. Membuat folder 'includes' dan dua file baru: footer.php dan header.php
+
+        new file:   includes/footer.php
+        new file:   includes/header.php
+
+        NEXT: 
+
+        Membuat struktur proyek menjadi lebih efisien
