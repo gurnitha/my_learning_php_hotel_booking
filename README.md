@@ -205,3 +205,12 @@
         NEXT: 
 
         Membuat struktur proyek menjadi lebih efisien
+
+
+#### 3.3. Mempersiapkan Struktur Proyek - Part 3: Membuat struktur proyek menjadi lebih efisien
+
+        Aktivitas:
+
+        1. 
+        modified:   about.php
+        modified:   includes/header.php
